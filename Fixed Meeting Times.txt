@@ -1,0 +1,8 @@
+3
+['NYNNY', 'YYNYN', 'NNYNY', 'YYNYN']
+5
+['NYNNY', 'YNYYY', 'NYYYY', 'YYYNY']
+2
+['NNYNN', 'YYYYY', 'YYYYN', 'NNYNN']
+1
+['NNYNN', 'YNYNY', 'YNNYN', 'NYNNN']
